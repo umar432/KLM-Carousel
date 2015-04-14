@@ -1,0 +1,26 @@
+{
+  "name": "KLM-Carousel",
+  "description": "Using Angular JS",
+  "version": "0.0.1",
+  "homepage": "http://revolunet.github.com/angular-carousel",
+  "author": "Umar <umar432@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/revolunet/angular-carousel.git"
+  },
+  "main": [
+    "dist/angular-carousel.js",
+    "dist/angular-carousel.css"
+  ],
+  "ignore": [
+    "demo"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.10",
+    "angular-touch": ">=1.2.10"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.2.10",
+    "requirejs": ">=2.1.0"
+  }
+}
