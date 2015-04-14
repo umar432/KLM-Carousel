@@ -2,5 +2,5 @@
 
 An AngularJS carousel implementation
 
-Demo : http://revolunet.github.io/angular-carousel
+Demo : https://rawgit.com/umar432/KLM-Carousel/master/index.html
 
