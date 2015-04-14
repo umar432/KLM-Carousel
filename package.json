@@ -2,19 +2,19 @@
   "name": "KLM-Carousel",
   "description": "Using Angular JS",
   "version": "0.0.1",
-  "homepage": "http://revolunet.github.com/angular-carousel",
+  "homepage": "https://rawgit.com/umar432/KLM-Carousel/master/index.html",
   "author": "Umar <umar432@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/revolunet/angular-carousel.git"
+    "url": "git://github.com/umar432/KLM-Carousel.git"
   },
   "engines": {
     "node": ">= 0.8"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "http://revolunet.mit-license.org"
+      "type": "MIT"
+
     }
   ],
   "dependencies": {},
